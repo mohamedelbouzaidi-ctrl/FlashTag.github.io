@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:el bouza;moha;;;
+FN:el bouz moha
+ORG:Tu Proyecto NFC
+TITLE:Director
+TEL;TYPE=CELL,VOICE:+212555555565
+EMAIL;TYPE=PREF,INTERNET:tuemail@gmail.com
+URL:https://tuweb.com
+END:VCARD
